@@ -1,4 +1,4 @@
-# 
+# 即时 dex sniper bot 附加组件 Mac OS版 | 更新 dex sniper bot 附加组件 PC Windows版。集成 强平检测 和 限价单执行，跨平台性能最大化。
 
 
 
